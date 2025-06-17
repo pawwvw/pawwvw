@@ -1,16 +1,26 @@
-## Hi there 👋
+# Привет! 👋 Я Боян
 
-<!--
-**pawwvw/pawwvw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Middle Fullstack разработчик
 
-Here are some ideas to get you started:
+Специализируюсь на **React**, **Vue**, **Node.js** и **TypeScript**. Создаю современные веб-приложения, телеграмм ботов и инструменты для разработчиков.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Технологии
+
+**Frontend:** React, Next.js, Vue.js, Nuxt.js, TypeScript, Tailwind
+**Backend:** Node.js, Nest.js, Express.js
+**Инструменты:** Git, Jest, Figma, Postman
+**Изучаю:** Rust
+
+### 📦 Мой NPM пакет
+
+**[tg-user-validation](https://www.npmjs.com/package/tg-user-validation)** — безопасная валидация пользовательских данных в Telegram Mini Apps  
+📈 98 загрузок/неделю - максимум за все время.
+
+### 📬 Контакты
+
+- Email: bojankartal@gmail.com
+- Telegram: @pawwvw
+- NPM: [npmjs.com/~pawww](https://www.npmjs.com/~pawww)
+
+---
+*Открыт для новых возможностей и интересных проектов*
