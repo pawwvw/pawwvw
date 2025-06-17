@@ -6,10 +6,10 @@
 
 ### 🛠 Технологии
 
-**Frontend:** React, Next.js, Vue.js, Nuxt.js, TypeScript, Tailwind
-**Backend:** Node.js, Nest.js, Express.js
-**Инструменты:** Git, Jest, Figma, Postman
-**Изучаю:** Rust
+- **Frontend:** React, Next.js, Vue.js, Nuxt.js, TypeScript, Tailwind
+- **Backend:** Node.js, Nest.js, Express.js
+- **Инструменты:** Git, Jest, Figma, Postman
+- **Изучаю:** Rust
 
 ### 📦 Мой NPM пакет
 
