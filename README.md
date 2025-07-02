@@ -13,7 +13,7 @@
 
 ### Мой NPM пакет
 
-**[tg-user-validation](https://www.npmjs.com/package/tg-user-validation)** - безопасная валидация пользовательских данных в Telegram Mini Apps 170 загрузок/неделю - максимум за все время.
+**[tg-user-validation](https://www.npmjs.com/package/tg-user-validation)** - безопасная валидация пользовательских данных в Telegram Mini Apps (170 загрузок/неделю - максимум за все время.)
 
 ### Контакты
 
